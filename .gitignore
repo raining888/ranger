@@ -1,0 +1,7 @@
+plugins/__pycache__/*
+plugins/__init__.pyo
+plugins/devicons.pyo
+plugins/devicons_linemode.pyo
+bookmarks
+history
+tagged
